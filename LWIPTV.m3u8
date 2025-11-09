@@ -32,7 +32,7 @@ http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000483
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV-15音乐
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000587
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png",CCTV-16奥林匹克
-http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+http://zqh2333.top:2222/rtp/239.93.55.54:5140
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",CCTV-17高清
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000580
 #EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png",安徽卫视高清
