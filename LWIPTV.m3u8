@@ -133,9 +133,4 @@ http://10.255.126.3:8006/AHBKLIVE/11111100000000000000000000000005
 http://10.255.126.3:8006/AHBKLIVE/11111100000000000000000000000007
 #EXTINF:-1 group-title="卫视" ,安徽公共
 http://10.255.126.3:8006/AHBKLIVE/11111100000000000000000000000009
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/4S1rkhm.png",TVBS-Asia
-http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/ykPNNwQ.png",Pet Club TV
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/Gwij0Fj.png",TVB News
-http://r.jdshipin.com/CkuBd
+
