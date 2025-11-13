@@ -4,11 +4,11 @@ http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000152
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV-2财经
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000477
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3综艺
-http://163.142.186.49:9901/tsfile/live/1003_1.m3u8
+http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV-4中文国际
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000573
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV-5体育
-http://163.142.186.49:9901/tsfile/live/1005_1.m3u8
+http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV-5+体育赛事
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000153
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV-6电影
@@ -16,7 +16,7 @@ http://10.255.126.3:8006/AHBKLIVE/11111120220816000000000000000005
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",CCTV-7军事
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000485
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV-8电视剧
-http://163.142.186.49:9901/tsfile/live/1008_1.m3u8
+http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV-9记录
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000478
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",CCTV-10科教
@@ -31,6 +31,8 @@ http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000602
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000483
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV-15音乐
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000587
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png",CCTV-16奥林匹克
+http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",CCTV-17高清
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000580
 #EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png",安徽卫视高清
