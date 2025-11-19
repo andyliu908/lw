@@ -149,5 +149,3 @@ http://222.128.55.152:9080/live/fc.m3u8
 http://66.90.99.154:8278/feifannews_twn/playlist.m3u8?tid=MACA3363565933635659&ct=19234&tsum=ec8caeb654e3121f9bb3ed39b1759999
 #EXTINF:-1 group-title="港台",台视新闻
 http://66.90.99.154:8278/ttvnews_twn/playlist.m3u8?tid=MBBB6637589866375898&ct=19234&tsum=d2c641a325bf02e0b68c4f245e0165b0
-#EXTINF:-1 group-title="港台",东森美洲新闻台
-http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
