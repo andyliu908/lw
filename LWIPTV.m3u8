@@ -4,7 +4,7 @@ http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000152
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV-2财经
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000477
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3综艺
-https://migu.188766.xyz/?migutoken=34f76fb5099c13fba8c3682a4118557f&id=CCTV3&type=yy
+http://223.76.131.67:5003/cctv3.m3u8?token=7375646f2fd85ebe99fe6c14722f1ce268cbd060&z=1151
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV-4中文国际
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000573
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV-5体育
