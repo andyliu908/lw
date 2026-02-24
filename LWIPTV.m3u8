@@ -135,7 +135,7 @@ http://10.255.126.3:8006/AHBKLIVE/11111100000000000000000000000005
 http://10.255.126.3:8006/AHBKLIVE/11111100000000000000000000000007
 #EXTINF:-1 group-title="卫视",安徽公共
 http://10.255.126.3:8006/AHBKLIVE/11111100000000000000000000000009
-#EXTINF:-1 group-title="港台",NOW新闻
-https://mgev.188766.xyz/?migutoken=4cc18ff2292c41e509fc978b18bea3c1&id=hk_now&type=dy
+#EXTINF:-1 group-title="港台",凤凰资讯
+http://rihou.cc:555/tv/[SX]凤凰资讯
 =
 
