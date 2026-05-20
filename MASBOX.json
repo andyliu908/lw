@@ -1,36 +1,13 @@
 {
     "urls": [
-         {
-            "url": "http://www.饭太硬.com/tv/",
-            "name": "🚀1-饭太硬推荐"
-        },
-         {
-            "url": "http://肥猫.com",
-            "name": "🚀2-肥猫"
-        },    
-         {
-            "url": "https://9lnk.io/BpuF",
-            "name": "🚀3-青檬影视"
-        },
-         {
-            "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
-            "name": "🚀4-王二小"
-        },
-         {
-            "url": "https://gh-proxy.com/raw.githubusercontent.com//gaotianliuyun/gao/master/0827.json",
-            "name": "🚀5-FongMI线路"
-        },
-         {
-            "url": "http://pandown.pro/tvbox/tvbox.json",
-            "name": "🚀6-巧计线路"
-        },
+        
          {
             "url": "http://tv.nxog.top/m/",
-            "name": "🚀7-欧歌4K"
+            "name": "🚀1-欧歌4K"
         },
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-            "name": "🚀8-南 风"
+            "name": "🚀2-南 风"
         }
     ]
 }
